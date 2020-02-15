@@ -1,9 +1,9 @@
 {
 
-	"consumer-key": "EBJs8D8Orj41KduzTxhEdu89u",
-	"consumer-secret": "IVxePGbbX61HjdMmhmA8PeqZCqqqF67tFR0QUhqGwhrN0tdkDg",
-	"access-token-key": "1224374155535101954-EjXMisLcAfHaJRCZlsrNyPV5NMRDMB",
-	"access-token-secret": "HgY0Jya6VpvCrjSZy6EuJu4Oon0bS3G5mN93KVoCX9ZNE",
+	"consumer-key": "",
+	"consumer-secret": "",
+	"access-token-key": "",
+	"access-token-secret": "",
 	"order": 10,
 	"tweets": 20,
 	"training-number": 10000
